@@ -1,0 +1,12 @@
+tqdm
+scikit-learn
+efficientnet_pytorch
+pillow
+transformers
+pandas
+pretrainedmodels
+pyarrow
+fastparquet
+sentence-transformers
+scikit-image
+quadratum
